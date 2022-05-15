@@ -1,1 +1,1 @@
-# MeinaBian-CUBtcamp_Challenge20_Solidity_SmartContract
+#CUBtcamp_Challenge20_Solidity_SmartContract
